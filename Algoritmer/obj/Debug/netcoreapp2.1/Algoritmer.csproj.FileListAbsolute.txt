@@ -1,0 +1,11 @@
+C:\Users\Lukaz\Desktop\Algoritmer\bin\Debug\netcoreapp2.1\Algoritmer.deps.json
+C:\Users\Lukaz\Desktop\Algoritmer\bin\Debug\netcoreapp2.1\Algoritmer.runtimeconfig.json
+C:\Users\Lukaz\Desktop\Algoritmer\bin\Debug\netcoreapp2.1\Algoritmer.runtimeconfig.dev.json
+C:\Users\Lukaz\Desktop\Algoritmer\bin\Debug\netcoreapp2.1\Algoritmer.dll
+C:\Users\Lukaz\Desktop\Algoritmer\bin\Debug\netcoreapp2.1\Algoritmer.pdb
+C:\Users\Lukaz\Desktop\Algoritmer\obj\Debug\netcoreapp2.1\Algoritmer.csprojAssemblyReference.cache
+C:\Users\Lukaz\Desktop\Algoritmer\obj\Debug\netcoreapp2.1\Algoritmer.csproj.CoreCompileInputs.cache
+C:\Users\Lukaz\Desktop\Algoritmer\obj\Debug\netcoreapp2.1\Algoritmer.AssemblyInfoInputs.cache
+C:\Users\Lukaz\Desktop\Algoritmer\obj\Debug\netcoreapp2.1\Algoritmer.AssemblyInfo.cs
+C:\Users\Lukaz\Desktop\Algoritmer\obj\Debug\netcoreapp2.1\Algoritmer.dll
+C:\Users\Lukaz\Desktop\Algoritmer\obj\Debug\netcoreapp2.1\Algoritmer.pdb
